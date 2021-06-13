@@ -1,0 +1,22 @@
+Title: Mayo
+Description: 
+Source: 
+Original URL: https://www.inspiredtaste.net/25943/homemade-mayonnaise-recipe/
+Yield: 1 Cup
+Active: 5Min
+Total: 
+Categories: condiment
+Image: https://cdn2.pepperplate.com/recipes/4909ac50e69445409eca08e3a486a228.jpg
+Ingredients:
+	1 Egg
+	1 TB Mustard
+	1 TB Vinegar
+	Pinch of salt
+	1 Cup Oil
+	1 Lemon
+
+Instructions:
+	Mix egg, mustard, vinegar, and salt
+	Extremely slowly at first, drizzle in oil.  Once emulsification happens, drizzle in rest of oil while whisking.
+	Lemon to taste.
+

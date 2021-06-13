@@ -1,0 +1,17 @@
+Title: Hard Boiled Eggs
+Description: 
+Source: 
+Original URL: 
+Yield: 12
+Active: 5 Minutes
+Total: 30 Minutes
+Categories: toppings, sides, breakfast
+Image: https://cdn2.pepperplate.com/recipes/893a677455174d6da722ac2034bd3847.jpg
+Ingredients:
+	Dozen Eggs
+
+Instructions:
+	Pot big enough for eggs not to overlap. Fill 1-2 inches above the eggs with cold water.
+	Bring water to boil. Immediately turn off heat. Let rest for 10-12 minutes.
+	Remove eggs from heat and run cold water over to stop cooking.
+
