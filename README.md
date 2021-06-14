@@ -1,10 +1,17 @@
 # Food-Library
-Recipe storage and sync
+Flask app served by waitress.  Recipe storage and sync
 
 
 
-# 06.13 notes
-
+# 06.13
+Run the app locally:
 ```
-gunicorn app.wsgi --log-level=DEBUG -b 0.0.0.0:5000
+python -m app.wsgi
 ```
+
+#windows 10 postgresql
+https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437
+
+#postgres port
+5432
+123
