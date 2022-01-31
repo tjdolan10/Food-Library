@@ -6,4 +6,4 @@ pandas==1.2.4
 python-dotenv==0.17.1
 psycopg2==2.8.6
 invoke==1.5.0
-recipe-scrapers==13.12.1 
+recipe-scrapers==13.12.1
