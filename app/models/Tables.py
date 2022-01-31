@@ -21,8 +21,7 @@ class Recipes(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String(50), nullable=False)
     description = Column(String(500), nullable=False)
-    instructions = Column(String(500), nullable=False)
-
+    instructions = Column(String(5000), nullable=False)
 
 class Ingredients(Base):
     __tablename__ = "ingredients"
@@ -45,6 +44,6 @@ class RecipeIngredient(Base):
     measure_id = Column(Integer, ForeignKey('measures.id'))
     quantity = Column(Numeric,nullable=False)
     #relationships
-    recipe = relationship("Recipes", back_populates="RecipeIngredient")
-    ingredient = relationship("Ingredients", back_populates="RecipeIngredient")
-    measure = relationship("Measures", back_populates="RecipeIngredient")
+    # recipe = relationship("Recipes", back_populates="RecipeIngredient")
+    # ingredient = relationship("Ingredients", back_populates="RecipeIngredient")
+    # measure = relationship("Measures", back_populates="RecipeIngredient")

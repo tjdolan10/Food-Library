@@ -13,8 +13,8 @@ def test_build():
     table_list = [
         models.Tables.Recipes
         ,models.Tables.Ingredients
-        ,models.Tables.RecipeIngredient
         ,models.Tables.Measures
+        ,models.Tables.RecipeIngredient
         ]
     engine = session.session_func('engine')
 
